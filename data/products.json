@@ -1,0 +1,57 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 1200,
+    "amount": 15
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 1000,
+    "amount": 20
+  },
+  {
+    "name": "Google Pixel 7",
+    "price": 850,
+    "amount": 30
+  },
+  {
+    "name": "OnePlus 10 Pro",
+    "price": 950,
+    "amount": 0
+  },
+  {
+    "name": "Xiaomi Mi 12",
+    "price": 750,
+    "amount": 40
+  },
+  {
+    "name": "Oppo Find X5 Pro",
+    "price": 1100,
+    "amount": 0
+  },
+  {
+    "name": "Sony Xperia 1 IV",
+    "price": 1300,
+    "amount": 10
+  },
+  {
+    "name": "Asus ROG Phone 6",
+    "price": 1200,
+    "amount": 22
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 1800,
+    "amount": 8
+  },
+  {
+    "name": "Motorola Edge+ 2023",
+    "price": 900,
+    "amount": 35
+  },
+  {
+    "name": "Realme GT 2 Pro",
+    "price": 950,
+    "amount": 28
+  }
+]

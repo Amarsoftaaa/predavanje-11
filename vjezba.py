@@ -1,16 +1,8 @@
-import json
+from method import load_file, save_file, delete_file
 
-with open ("data/user.json", "r") as file:
-    data = json.load(file)
-    data.append({
-        "name":"Elvira Huremovic",
-        "age" : 55,
-        "height" : 170,
-        "gender" : "feMale",
-    })
-
-
-    print(data)
-
-    with open ("data/user.json", "w") as file:
-        json.dump(data, file, indent=4)
+data= load_file("data/user.json")
+print(data)
+data.append({
+    "name":"twst test"
+})
+save_file("data/user.json", data)
